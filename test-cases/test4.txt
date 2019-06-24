@@ -1,0 +1,7 @@
+{
+  string a
+  a = "stringexample"
+  print(a)
+  c = "secondstringexample"
+  print(c)
+}

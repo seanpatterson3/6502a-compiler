@@ -1,0 +1,25 @@
+{
+  int a
+  a = 1
+  {
+    int a
+    a = 2
+  }
+  if (a == 1) {
+    int c
+    c = 3
+    string d
+    d = "first"
+    print(d)
+    if (c == 3) {
+      string e
+      e = "second"
+      print(e)
+      if (c != 3) {
+        string g 
+        g = "skipme"
+        print (g)
+      }
+    }
+  }
+}

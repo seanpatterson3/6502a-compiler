@@ -1,0 +1,11 @@
+{
+  string a
+  a = "first"
+  print(a)
+  {  
+    string a
+    a = "second"
+    print(a)
+  }
+  print(a)
+}

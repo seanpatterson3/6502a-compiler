@@ -1,0 +1,15 @@
+{
+  int a
+  a = 3
+  print (a)
+  int c
+  c = 5 
+  print(c)
+  c = a
+  print(c)
+  {
+    string d
+    d = "sean"
+    print(d)
+  }
+}$

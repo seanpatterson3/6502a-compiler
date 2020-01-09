@@ -12,7 +12,7 @@ More details about the grammar or machine language instruction set can be found 
 java driver < test1.txt
 ```
   * Operating systems capable of running the machine code which has been generated are available on my professor's website. http://labouseur.com/courses/compilers/
-    * A list of OS's provided by other student's is available at the bottom of the project's and labs section. 
+    * A list of OS's provided by other students is available at the bottom of the project's and labs section. 
 
 ### JDK Installation
 ##### On Windows
